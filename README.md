@@ -36,7 +36,7 @@ pip install matplotlib
 ### Data Validation Tests
 Verifying that the data is correctly loaded and accessible:
 ```sql
-SELECT * FROM ;
+SELECT * FROM ap.mytable;
 ```
  
 ### Code Quality Checks
