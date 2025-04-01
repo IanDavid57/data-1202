@@ -36,7 +36,7 @@ pip install matplotlib
 ### Data Validation Tests
 Verifying that the data is correctly loaded and accessible:
 ```sql
-SELECT COUNT(*) FROM sales_data;
+SELECT * FROM ;
 ```
  
 ### Code Quality Checks
